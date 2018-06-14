@@ -1,4 +1,4 @@
-## Quick Start {docsify-ignore}
+## Quick Start 
 
 Run the following commands to test or develop this project:
 
